@@ -31,7 +31,7 @@
         the
         answers still works with CSS alone.
     </p>
-    <p><a class="standalone-link" href="https://github.com/grapefruit-leaf/arcade">Read the code on GitHub</a></p>
+    <p><a class="standalone-link" href="https://github.com/grapefruit-leaf/CS5610-Project_2">Read the code on GitHub</a></p>
 </section>
 
 <style>

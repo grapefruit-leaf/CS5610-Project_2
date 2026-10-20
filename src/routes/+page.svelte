@@ -19,7 +19,7 @@
         },
         {
             title: 'This website',
-            href: 'https://github.com/grapefruit-leaf/arcade',
+            href: 'https://github.com/grapefruit-leaf/CS5610-Project_2',
             description: 'The source code is on GitHub.',
         },
     ];

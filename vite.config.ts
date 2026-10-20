@@ -6,7 +6,7 @@ export default defineConfig(({mode}) => ({
     plugins: [
         sveltekit({
             adapter: adapter(),
-            paths: {base: mode === 'github-pages' ? '/arcade' : ''},
+            paths: {base: mode === 'github-pages' ? '/CS5610-Project_2' : ''},
         }),
     ],
 }));

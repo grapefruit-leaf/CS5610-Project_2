@@ -2,7 +2,7 @@
     <p>&copy; 2026 Honglin Wei</p>
     <ul class="footer-links">
         <li><a href="mailto:wei.hongl@northeastern.edu">Email</a></li>
-        <li><a href="https://github.com/grapefruit-leaf/arcade">Source code</a></li>
+        <li><a href="https://github.com/grapefruit-leaf/CS5610-Project_2">Source code</a></li>
     </ul>
 </footer>
 
