@@ -10,7 +10,7 @@
 
 <section class="about-intro">
     <h1>About</h1>
-    <img alt="Placeholder for a photo of Honglin" class="portrait" height="360" src={portrait} width="300"/>
+    <img alt="Placeholder portrait of Honglin" class="portrait" height="360" src={portrait} width="300"/>
     <p>
         M.S. Computer Science student at Northeastern University and software engineer with 3+ years of experience in
         backend development and distributed systems. Proficient in Java, Python, microservices, and CI/CD. Looking for a
