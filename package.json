@@ -27,5 +27,6 @@
     "svelte-check": "^4.7.0",
     "typescript": "^6.0.0",
     "vite": "^8.0.12"
-  }
+  },
+  "build:pages": "vite build --mode github-pages"
 }
