@@ -12,6 +12,7 @@
     function submit(event: SubmitEvent & { currentTarget: EventTarget & HTMLFormElement }) {
         event.preventDefault();
         onstart(Number(new FormData(event.currentTarget).get('seed')));
+        if (document.activeElement instanceof HTMLElement) document.activeElement.blur();
     }
 </script>
 
