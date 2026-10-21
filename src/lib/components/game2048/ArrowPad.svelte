@@ -17,7 +17,8 @@
 
 <div aria-label="Move tiles" class="arrow-pad" role="group">
     {#each ARROWS as {direction, symbol} (direction)}
-        <button type="button" class="arrow {direction}" aria-label="Move {direction}" onclick={() => onmove(direction)}>
+        <button type="button" class="arrow" style:grid-area={direction} aria-label="Move {direction}"
+                onclick={() => onmove(direction)}>
             {symbol}
         </button>
     {/each}
